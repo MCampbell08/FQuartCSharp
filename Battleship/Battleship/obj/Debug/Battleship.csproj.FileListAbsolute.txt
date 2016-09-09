@@ -1,0 +1,14 @@
+C:\C#\Battleship\Battleship\bin\Debug\Battleship.exe.config
+C:\C#\Battleship\Battleship\bin\Debug\Battleship.exe
+C:\C#\Battleship\Battleship\bin\Debug\Battleship.pdb
+C:\C#\Battleship\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+C:\C#\Battleship\Battleship\obj\Debug\MainWindow.g.cs
+C:\C#\Battleship\Battleship\obj\Debug\App.g.cs
+C:\C#\Battleship\Battleship\obj\Debug\Battleship_MarkupCompile.cache
+C:\C#\Battleship\Battleship\obj\Debug\Battleship_MarkupCompile.lref
+C:\C#\Battleship\Battleship\obj\Debug\MainWindow.baml
+C:\C#\Battleship\Battleship\obj\Debug\Battleship.g.resources
+C:\C#\Battleship\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\C#\Battleship\Battleship\obj\Debug\Battleship.csproj.GenerateResource.Cache
+C:\C#\Battleship\Battleship\obj\Debug\Battleship.exe
+C:\C#\Battleship\Battleship\obj\Debug\Battleship.pdb

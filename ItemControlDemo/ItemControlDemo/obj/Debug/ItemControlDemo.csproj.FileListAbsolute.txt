@@ -1,0 +1,14 @@
+C:\C#\ItemControlDemo\ItemControlDemo\bin\Debug\ItemControlDemo.exe.config
+C:\C#\ItemControlDemo\ItemControlDemo\bin\Debug\ItemControlDemo.exe
+C:\C#\ItemControlDemo\ItemControlDemo\bin\Debug\ItemControlDemo.pdb
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo.csprojResolveAssemblyReference.cache
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\MainWindow.g.cs
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\App.g.cs
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo_MarkupCompile.cache
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo_MarkupCompile.lref
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\MainWindow.baml
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo.g.resources
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo.Properties.Resources.resources
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo.csproj.GenerateResource.Cache
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo.exe
+C:\C#\ItemControlDemo\ItemControlDemo\obj\Debug\ItemControlDemo.pdb

@@ -1,0 +1,16 @@
+C:\C#\HueValueConverter\HueValueConverter\bin\Debug\HueValueConverter.exe
+C:\C#\HueValueConverter\HueValueConverter\bin\Debug\HueValueConverter.pdb
+C:\C#\HueValueConverter\HueValueConverter\bin\Debug\HueValueConverter.exe.config
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\MainWindow.g.cs
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\App.g.cs
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter_MarkupCompile.cache
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter_MarkupCompile.lref
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\App.baml
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\MainWindow.baml
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.g.resources
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.Properties.Resources.resources
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.csproj.GenerateResource.Cache
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.exe
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.pdb
+C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.csprojResolveAssemblyReference.cache

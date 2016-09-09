@@ -1,0 +1,5 @@
+C:\C#\Interfaces\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\C#\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\C#\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\C#\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\C#\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

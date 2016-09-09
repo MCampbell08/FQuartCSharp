@@ -1,0 +1,14 @@
+C:\C#\LayoutDemo\LayoutDemo\bin\Debug\LayoutDemo.exe.config
+C:\C#\LayoutDemo\LayoutDemo\bin\Debug\LayoutDemo.exe
+C:\C#\LayoutDemo\LayoutDemo\bin\Debug\LayoutDemo.pdb
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo.csprojResolveAssemblyReference.cache
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\MainWindow.g.cs
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\App.g.cs
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo_MarkupCompile.cache
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo_MarkupCompile.lref
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\MainWindow.baml
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo.g.resources
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo.Properties.Resources.resources
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo.csproj.GenerateResource.Cache
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo.exe
+C:\C#\LayoutDemo\LayoutDemo\obj\Debug\LayoutDemo.pdb

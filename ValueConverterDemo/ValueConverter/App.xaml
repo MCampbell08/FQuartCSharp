@@ -1,0 +1,20 @@
+﻿<Application x:Class="ValueConverter.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:con="clr-namespace:ValueConverter.Converters"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- I declared reusable resources here to add ease of use, avoid 
+                duplicate code, and leave the solution looking cleaner -->
+            <SolidColorBrush x:Key="TrueBrushResource" Color="Green" />
+            <SolidColorBrush x:Key="FalseBrushResource" Color="Indigo" />
+
+            <!-- Notice that I bound the two dependency properties of BoolToBrushConverter
+                to the two resources declared above -->
+            <con:BoolToBrushConverter x:Key="BoolConverter"
+                                      TrueBrush="{StaticResource ResourceKey=TrueBrushResource}"
+                                      FalseBrush="{StaticResource ResourceKey=FalseBrushResource}" />
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

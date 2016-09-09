@@ -1,0 +1,8 @@
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_CIO.dll
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_CIO.pdb
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\obj\Debug\ConsoleMenuDLL.csprojResolveAssemblyReference.cache
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_DLL.pdb
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\obj\Debug\CampbellM_DLL.pdb
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_DLL.exe.config
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_DLL.exe
+C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\obj\Debug\CampbellM_DLL.exe

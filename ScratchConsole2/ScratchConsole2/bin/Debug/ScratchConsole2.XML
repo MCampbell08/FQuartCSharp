@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScratchConsole2</name>
+    </assembly>
+    <members>
+        <member name="M:ScratchConsole2.Extensions.Addition(System.Int32,System.Int32)">
+            <summary>
+            Adds two ints together and returns the sum
+            </summary>
+            <param name="x">The first int</param>
+            <param name="y">The second int</param>
+            <returns>the sum of x and y</returns>
+        </member>
+    </members>
+</doc>

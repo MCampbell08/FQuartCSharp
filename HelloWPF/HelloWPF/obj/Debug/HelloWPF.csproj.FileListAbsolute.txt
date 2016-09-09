@@ -1,0 +1,14 @@
+C:\C#\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+C:\C#\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+C:\C#\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csprojResolveAssemblyReference.cache
+C:\C#\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+C:\C#\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.lref
+C:\C#\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.Cache
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+C:\C#\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb

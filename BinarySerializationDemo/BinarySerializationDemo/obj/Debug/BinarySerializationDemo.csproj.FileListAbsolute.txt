@@ -1,0 +1,6 @@
+C:\C#\BinarySerializationDemo\BinarySerializationDemo\bin\Debug\BinarySerializationDemo.exe.config
+C:\C#\BinarySerializationDemo\BinarySerializationDemo\bin\Debug\BinarySerializationDemo.exe
+C:\C#\BinarySerializationDemo\BinarySerializationDemo\bin\Debug\BinarySerializationDemo.pdb
+C:\C#\BinarySerializationDemo\BinarySerializationDemo\obj\Debug\BinarySerializationDemo.csprojResolveAssemblyReference.cache
+C:\C#\BinarySerializationDemo\BinarySerializationDemo\obj\Debug\BinarySerializationDemo.exe
+C:\C#\BinarySerializationDemo\BinarySerializationDemo\obj\Debug\BinarySerializationDemo.pdb

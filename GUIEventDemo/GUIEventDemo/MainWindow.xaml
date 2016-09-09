@@ -1,0 +1,20 @@
+﻿<Window x:Class="GUIEventDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUIEventDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Button x:Name="buttonWon"
+                Content="Won Button" 
+                Margin="20"
+                Click="EveryButton_Click" />
+
+        <Button x:Name="lose"
+                Content="Lose Button" 
+                Margin="20"
+                Click="EveryButton_Click" />
+    </StackPanel>
+</Window>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="DemoAddingResources.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoAddingResources"
+        mc:Ignorable="d"
+        Title="ResourceDemo" Height="350" Width="525">
+    <StackPanel x:Name="mainPanel">
+        <StackPanel.Resources>
+            <SolidColorBrush Color="Pink" x:Key="BodyColor"/>
+            <SolidColorBrush Color="Firebrick" x:Key="BorderColor"/>
+        </StackPanel.Resources>
+        <Button Width="120"
+                Margin="10"
+                Background="{StaticResource BodyColor}"
+                BorderBrush="{StaticResource BorderColor}"
+                Content="Ugly Button"
+                Click="Button_ClickHandler"/>
+        <Button Width="120"
+                Margin="10"
+                Background="{DynamicResource BodyColor}"
+                BorderBrush="{StaticResource BorderColor}"
+                Content="Another Ugly Button"/>
+        <Button Width="120"
+                Margin="10"
+                Background="{StaticResource BodyColor}"
+                BorderBrush="{StaticResource BorderColor}"
+                Content="Still Ugly Button"/>
+        <Button Width="120"
+                Margin="10"
+                Background="{StaticResource BodyColor}"
+                BorderBrush="{StaticResource BorderColor}"
+                Content="Fred the Beautiful"/>
+    </StackPanel>
+</Window>

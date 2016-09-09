@@ -1,0 +1,181 @@
+﻿<Window x:Class="Battleship.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Battleship"
+        mc:Ignorable="d"
+        Title="BattleShip" Height="470" Width="1000">
+
+    <StackPanel x:Name="gamePanel">
+        <StackPanel.Resources>
+            <BooleanToVisibilityConverter x:Key="boolToVis"/>
+        </StackPanel.Resources>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File" Width="40">
+                    <MenuItem Header="_New" InputGestureText="Ctrl+N" x:Name="subNew" Click="subNew_Click">
+                    </MenuItem>
+                    <MenuItem Header="_Open" InputGestureText="Ctrl+O" x:Name="subOpen" Click="subNew_Click">
+                    </MenuItem>
+                    <MenuItem Header="_Save" InputGestureText="Ctrl+S" x:Name="subSave" Click="subNew_Click">
+                    </MenuItem>
+                    <MenuItem Header="_Save As" InputGestureText="Ctrl+Shift+S" x:Name="subSaveAs" Click="subNew_Click">
+                    </MenuItem>
+                    <MenuItem Header="_Exit" x:Name="subExit" Click="subNew_Click"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <StackPanel x:Name="tempPanel"
+                    Margin="350,100,350,100"
+                    Height="200"
+                    Visibility="Visible">
+            <Label x:Name="enterName"
+                   Content="Enter Your Name"
+                   HorizontalAlignment="Center"
+                   Margin="0,50,0,25"/>
+            <TextBox x:Name="namePrompt"
+                     Height="20"
+                     Width="120"/>
+            <Button x:Name="nameButton"
+                    Content="START"
+                    HorizontalAlignment="Center"
+                    Margin="10"
+                    Click="NameButton_Click"/>
+        </StackPanel>
+
+        <Label x:Name="userName"
+               HorizontalAlignment="Center"
+               Visibility="Hidden"/>
+        <Grid x:Name="mainGrid"
+              Visibility="Hidden">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="420"/>
+                <ColumnDefinition Width="420"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid x:Name="firingGrid"
+                  Grid.Column="0"
+                  Margin="20,0,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <Grid x:Name="playerShipGrid"
+                  Grid.Column="1"
+                  Margin="0,0,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <Grid x:Name="compShipGrid"
+                  Grid.Column="1"
+                  Margin="0,0,0,0"
+                  Visibility="Collapsed">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                    <ColumnDefinition Width="35"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <CheckBox
+                x:Name="addShip"
+                Grid.Column="1"
+                Margin="290,-20,60,540"
+                Content="Add ship"/>
+            <TextBox
+                x:Name="shipLength"
+                Grid.Column="1"
+                Margin="365,-25,30,545"/>
+            <Label
+                x:Name="locationLabel"
+                Grid.Column="2"
+                Content="Firing Location: "
+                Height="30"
+                Width="100"
+                Margin="0,0,50,500"/>
+            <TextBlock
+                x:Name="location"
+                Grid.Column="2"
+                Text="{Binding Path=Text}"
+                Height="30"
+                Width="30"
+                Margin="75,10,0,500"/>
+            <TextBlock
+                x:Name="messageBlock"
+                Grid.Column="2"
+                Text="{Binding Path=Message}"
+                Height="60"
+                Width="130"
+                Margin="0,10,0,400"/>
+        </Grid>
+    </StackPanel>
+</Window>

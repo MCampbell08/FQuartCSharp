@@ -1,0 +1,14 @@
+C:\C#\DemoAddingResources\DemoAddingResources\bin\Debug\DemoAddingResources.exe.config
+C:\C#\DemoAddingResources\DemoAddingResources\bin\Debug\DemoAddingResources.exe
+C:\C#\DemoAddingResources\DemoAddingResources\bin\Debug\DemoAddingResources.pdb
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\MainWindow.g.cs
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\App.g.cs
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources_MarkupCompile.cache
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources_MarkupCompile.lref
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\MainWindow.baml
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources.g.resources
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources.Properties.Resources.resources
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources.csproj.GenerateResource.Cache
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources.exe
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources.pdb
+C:\C#\DemoAddingResources\DemoAddingResources\obj\Debug\DemoAddingResources.csprojResolveAssemblyReference.cache

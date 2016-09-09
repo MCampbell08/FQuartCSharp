@@ -1,0 +1,8 @@
+C:\C#\Extensions\Extensions\bin\Debug\Extensions.exe.config
+C:\C#\Extensions\Extensions\bin\Debug\Extensions.exe
+C:\C#\Extensions\Extensions\bin\Debug\Extensions.pdb
+C:\C#\Extensions\Extensions\bin\Debug\ExtensionLibrary.dll
+C:\C#\Extensions\Extensions\bin\Debug\ExtensionLibrary.pdb
+C:\C#\Extensions\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\C#\Extensions\Extensions\obj\Debug\Extensions.exe
+C:\C#\Extensions\Extensions\obj\Debug\Extensions.pdb

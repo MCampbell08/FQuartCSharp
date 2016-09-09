@@ -1,0 +1,99 @@
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\MainWindow.baml
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\App.g.cs
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.cache
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.lref
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.csprojResolveAssemblyReference.cache
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\bin\Debug\ValueConverter.exe
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\App.baml
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.g.resources
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.Cache
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverter\ValueConverter\obj\Debug\ValueConverter.pdb
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\jkrebs\Desktop\CSC160 - 2013 Q3 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.pdb
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.pdb
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csprojResolveAssemblyReference.cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.baml
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\App.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.lref
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\App.baml
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.g.resources
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q1 - Joshua Krebs\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.Cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.pdb
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csprojResolveAssemblyReference.cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.baml
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\App.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.lref
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\App.baml
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.g.resources
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.Cache
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.pdb
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csprojResolveAssemblyReference.cache
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.baml
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\App.g.cs
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.cache
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.lref
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\App.baml
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.g.resources
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos_Old\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.Cache
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.exe
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.pdb
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csprojResolveAssemblyReference.cache
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.baml
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\App.g.cs
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.cache
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.lref
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\App.baml
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.g.resources
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\Users\jkrebs\OneDrive\CSC160\Teaching Material\Demos\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.Cache
+C:\C#\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.exe
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.pdb
+C:\C#\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe
+C:\C#\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.pdb
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csprojResolveAssemblyReference.cache
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.baml
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\MainWindow.g.cs
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\App.g.cs
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.cache
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter_MarkupCompile.lref
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\App.baml
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.g.resources
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
+C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.Cache

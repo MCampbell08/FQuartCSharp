@@ -1,0 +1,103 @@
+﻿<Window x:Class="UserControlDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:uc="clr-namespace:UserControlDemo.UserControls"
+        xmlns:local="clr-namespace:UserControlDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="525"
+        FontSize="18">
+    <!-- Create a Area to display moveis -->
+    <StackPanel x:Name="mainPanel" Margin="0,0,0.4,-56.4">
+
+        <uc:MovieDisplay x:Name="moviePanel1"/>
+        <Border BorderThickness="3"
+                BorderBrush="Blue"
+                Margin="30, 10">
+            <StackPanel x:Name="movie2Panel">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Right"
+                       Content="Title:" 
+                        FontWeight="ExtraBold"/>
+                    <Label HorizontalAlignment="Left"
+                       Grid.Column="1"
+                       Content="{Binding Path= Title}" 
+                           FontStyle="Italic"/>
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Right"
+                       Content="Year:" 
+                        FontWeight="ExtraBold"/>
+                    <Label HorizontalAlignment="Left"
+                       Grid.Column="1"
+                       Content="{Binding Path= Year}" />
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Right"
+                       Content="MPAARating:" 
+                        FontWeight="ExtraBold"/>
+                    <Label HorizontalAlignment="Left"
+                       Grid.Column="1"
+                       Content="{Binding Path= MPAARating}" />
+                </Grid>
+            </StackPanel>
+        </Border>
+        <Border BorderThickness="3"
+                BorderBrush="Blue"
+                Margin="30, 10">
+            <StackPanel x:Name="movie3Panel">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Right"
+                       Content="Title:" 
+                        FontWeight="ExtraBold"/>
+                    <Label HorizontalAlignment="Left"
+                       Grid.Column="1"
+                       Content="{Binding Path= Title}" 
+                           FontStyle="Italic"/>
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Right"
+                       Content="Year:" 
+                        FontWeight="ExtraBold"/>
+                    <Label HorizontalAlignment="Left"
+                       Grid.Column="1"
+                       Content="{Binding Path= Year}" />
+                </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label HorizontalAlignment="Right"
+                       Content="MPAARating:" 
+                        FontWeight="ExtraBold"/>
+                    <Label HorizontalAlignment="Left"
+                       Grid.Column="1"
+                       Content="{Binding Path= MPAARating}" />
+                </Grid>
+            </StackPanel>
+        </Border>
+    </StackPanel>
+    <!-- Display the movie data-->
+</Window>

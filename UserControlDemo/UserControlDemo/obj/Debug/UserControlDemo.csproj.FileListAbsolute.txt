@@ -1,0 +1,14 @@
+C:\C#\UserControlDemo\UserControlDemo\bin\Debug\UserControlDemo.exe.config
+C:\C#\UserControlDemo\UserControlDemo\bin\Debug\UserControlDemo.exe
+C:\C#\UserControlDemo\UserControlDemo\bin\Debug\UserControlDemo.pdb
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo.csprojResolveAssemblyReference.cache
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\MainWindow.g.cs
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\App.g.cs
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo_MarkupCompile.cache
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo_MarkupCompile.lref
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\MainWindow.baml
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo.g.resources
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo.Properties.Resources.resources
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo.csproj.GenerateResource.Cache
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo.exe
+C:\C#\UserControlDemo\UserControlDemo\obj\Debug\UserControlDemo.pdb

@@ -1,0 +1,6 @@
+C:\C#\ExploringEvents\ExploringEvents\bin\Debug\ExploringEvents.exe.config
+C:\C#\ExploringEvents\ExploringEvents\obj\Debug\ExploringEvents.csprojResolveAssemblyReference.cache
+C:\C#\ExploringEvents\ExploringEvents\bin\Debug\ExploringEvents.exe
+C:\C#\ExploringEvents\ExploringEvents\bin\Debug\ExploringEvents.pdb
+C:\C#\ExploringEvents\ExploringEvents\obj\Debug\ExploringEvents.exe
+C:\C#\ExploringEvents\ExploringEvents\obj\Debug\ExploringEvents.pdb

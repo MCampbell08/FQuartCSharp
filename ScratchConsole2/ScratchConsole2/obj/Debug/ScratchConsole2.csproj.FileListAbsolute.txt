@@ -1,0 +1,7 @@
+C:\C#\ScratchConsole2\ScratchConsole2\bin\Debug\ScratchConsole2.exe.config
+C:\C#\ScratchConsole2\ScratchConsole2\bin\Debug\ScratchConsole2.exe
+C:\C#\ScratchConsole2\ScratchConsole2\bin\Debug\ScratchConsole2.pdb
+C:\C#\ScratchConsole2\ScratchConsole2\obj\Debug\ScratchConsole2.csprojResolveAssemblyReference.cache
+C:\C#\ScratchConsole2\ScratchConsole2\obj\Debug\ScratchConsole2.exe
+C:\C#\ScratchConsole2\ScratchConsole2\obj\Debug\ScratchConsole2.pdb
+C:\C#\ScratchConsole2\ScratchConsole2\bin\Debug\ScratchConsole2.XML

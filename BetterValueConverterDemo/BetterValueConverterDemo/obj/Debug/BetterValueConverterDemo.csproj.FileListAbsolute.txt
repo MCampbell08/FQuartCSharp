@@ -1,0 +1,16 @@
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\bin\Debug\BetterValueConverterDemo.exe.config
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\bin\Debug\BetterValueConverterDemo.exe
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\bin\Debug\BetterValueConverterDemo.pdb
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo.csprojResolveAssemblyReference.cache
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\MainWindow.g.cs
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\App.g.cs
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo_MarkupCompile.cache
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo_MarkupCompile.lref
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\MainWindow.baml
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo.g.resources
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo.Properties.Resources.resources
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo.csproj.GenerateResource.Cache
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo.exe
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\BetterValueConverterDemo.pdb
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\C#\BetterValueConverterDemo\BetterValueConverterDemo\obj\Debug\App.baml

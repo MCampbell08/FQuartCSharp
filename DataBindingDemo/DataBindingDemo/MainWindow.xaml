@@ -1,0 +1,32 @@
+﻿<Window x:Class="DataBindingDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Data Binding Demo" Height="300" Width="300">
+    <Grid x:Name="mainGrid">
+        <Label x:Name="nameLabel"
+               Margin="10,10,10, 219"
+               Padding="2"
+               MinWidth="50"
+               HorizontalAlignment="Center"
+               Content="{Binding Path=Name}"
+               
+               BorderBrush="Blue"
+               BorderThickness="2"
+               />
+
+        <Label x:Name="ageLabel"
+               Margin="10,60,10,178"
+               Padding="2"
+               MinWidth="50"
+               HorizontalAlignment="Center"
+               Content="{Binding Path=Age}"
+               BorderBrush="Red"
+               BorderThickness="2" />
+
+        <Button x:Name="changeButton" 
+                Height="30" 
+                Content="Change"
+                Margin="6,142,0,89" 
+                Click="changeButton_Click" />
+    </Grid>
+</Window>

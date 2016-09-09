@@ -1,0 +1,14 @@
+C:\C#\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.exe.config
+C:\C#\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.exe
+C:\C#\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.pdb
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.csprojResolveAssemblyReference.cache
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\MainWindow.g.cs
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\App.g.cs
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise_MarkupCompile.cache
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise_MarkupCompile.lref
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\MainWindow.baml
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.g.resources
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.Properties.Resources.resources
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.csproj.GenerateResource.Cache
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.exe
+C:\C#\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.pdb
