@@ -1,0 +1,7 @@
+C:\SU16Pro100\Lab 01 Chess Translation\Lab 01 Chess Translation\bin\Debug\Lab 01 Chess Translation.exe.config
+C:\SU16Pro100\Pro100\Lab 01 Chess Translation\Lab 01 Chess Translation\bin\Debug\Lab 01 Chess Translation.exe.config
+C:\SU16Pro100\Pro100\Lab 01 Chess Translation\Lab 01 Chess Translation\bin\Debug\Lab 01 Chess Translation.exe
+C:\SU16Pro100\Pro100\Lab 01 Chess Translation\Lab 01 Chess Translation\bin\Debug\Lab 01 Chess Translation.pdb
+C:\SU16Pro100\Pro100\Lab 01 Chess Translation\Lab 01 Chess Translation\obj\Debug\Lab 01 Chess Translation.csprojResolveAssemblyReference.cache
+C:\SU16Pro100\Pro100\Lab 01 Chess Translation\Lab 01 Chess Translation\obj\Debug\Lab 01 Chess Translation.exe
+C:\SU16Pro100\Pro100\Lab 01 Chess Translation\Lab 01 Chess Translation\obj\Debug\Lab 01 Chess Translation.pdb

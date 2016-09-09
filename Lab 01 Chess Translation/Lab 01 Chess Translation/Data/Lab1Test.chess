@@ -1,0 +1,45 @@
+//Lab1Test txt file
+
+//Chess Piece Placement
+
+	Rla1 //Placement of Light Rook
+	Nlb1 //Placement of Light Knight
+	Blc1 //Placement of Light Bishop
+	Qld1 //Placement of Light Queen
+	Kle1 //Placement of Light King
+	Blf1 //Placement of Light Bishop
+	Nlg1 //Placement of Light Knight
+	Rlg1 //Placement of Light Rook
+	Pla2 //Placement of Light Pawn
+	Plb2 //Placement of Light Pawn
+	Plc2 //Placement of Light Pawn
+	Pld2 //Placement of Light Pawn
+	Ple2 //Placement of Light Pawn
+	Plf2 //Placement of Light Pawn
+	Plg2 //Placement of Light Pawn
+	Plh2 //Placement of Light Pawn
+	
+	Rda8 //Placement of Dark Rook
+	Ndb8 //Placement of Dark Knight
+	Bdc8 //Placement of Dark Bishop
+	Qdd8 //Placement of Dark Queen
+	Kde8 //Placement of Dark King
+	Bdf8 //Placement of Dark Bishop
+	Ndg8 //Placement of Dark Knight
+	Rdg8 //Placement of Dark Rook
+	Pda7 //Placement of Dark Pawn
+	Pdb7 //Placement of Dark Pawn
+	Pdc7 //Placement of Dark Pawn
+	Pdd7 //Placement of Dark Pawn
+	Pde7 //Placement of Dark Pawn
+	Pdf7 //Placement of Dark Pawn
+	Pdg7 //Placement of Dark Pawn
+	Pdh7 //Placement of Dark Pawn
+
+// Movement
+	1.f2-f4		e7-e5	//Pawn Movement
+	2.f4xe5		d7-d6	//Light Pawn captured Dark Pawn and another Dark Pawn moved forward once file.
+	3.e5xd6		Bf8xd6  //Light Pawn captured Dark Pawn and Bishop captured Pawn.
+	4.g2-g3 	Qd8-g5	//Light Pawn movement and Dark Queen movement.
+	5.Ng1-f3	Qg5xg3+ //Light Knight movement and Dark Queen captures Light Pawn and the Light King is in Check.
+	6.h2xg3 	Bd6xg3# //Light Pawn captures Queen and Bishop captures Light Pawn; checkmate!

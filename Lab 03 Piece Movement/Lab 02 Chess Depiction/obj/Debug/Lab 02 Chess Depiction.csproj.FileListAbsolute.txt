@@ -1,0 +1,10 @@
+C:\SU16Pro100\Pro100\Lab 02 Chess Depiction\Lab 02 Chess Depiction\obj\Debug\Lab 02 Chess Depiction.csprojResolveAssemblyReference.cache
+C:\SU16Pro100\Pro100\Lab 02 Chess Depiction\Lab 02 Chess Depiction\bin\Debug\Lab 02 Chess Depiction.exe.config
+C:\SU16Pro100\Pro100\Lab 02 Chess Depiction\Lab 02 Chess Depiction\bin\Debug\Lab 02 Chess Depiction.exe
+C:\SU16Pro100\Pro100\Lab 02 Chess Depiction\Lab 02 Chess Depiction\bin\Debug\Lab 02 Chess Depiction.pdb
+C:\SU16Pro100\Pro100\Lab 02 Chess Depiction\Lab 02 Chess Depiction\obj\Debug\Lab 02 Chess Depiction.exe
+C:\SU16Pro100\Pro100\Lab 02 Chess Depiction\Lab 02 Chess Depiction\obj\Debug\Lab 02 Chess Depiction.pdb
+C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\bin\Debug\Lab 02 Chess Depiction.exe.config
+C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 02 Chess Depiction.exe
+C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 02 Chess Depiction.pdb
+C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\bin\Debug\Lab 03 Piece Movement.exe.config
