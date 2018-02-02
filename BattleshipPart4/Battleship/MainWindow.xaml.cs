@@ -800,7 +800,7 @@ namespace Battleship
                 {
                     namePrompt.Text = "User";
                 }
-                userName.Content = namePrompt.Text + "'s Board";
+                userName.Content = namePrompt.Text + "'s Board";1
                 userName.Visibility = Visibility.Visible;
                 mainGrid.Visibility = Visibility.Visible;
                 tempPanel.Visibility = Visibility.Collapsed;

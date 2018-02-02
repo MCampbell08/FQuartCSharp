@@ -6,3 +6,6 @@ C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\obj\Debug\CampbellM_DLL.pdb
 C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_DLL.exe.config
 C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_DLL.exe
 C:\C#\ConsoleMenuDLL\ConsoleMenuDLL\obj\Debug\CampbellM_DLL.exe
+C:\FQuartCSharp\ConsoleMenuDLL\ConsoleMenuDLL\bin\Debug\CampbellM_DLL.exe.config
+C:\FQuartCSharp\ConsoleMenuDLL\ConsoleMenuDLL\obj\Debug\CampbellM_DLL.exe
+C:\FQuartCSharp\ConsoleMenuDLL\ConsoleMenuDLL\obj\Debug\CampbellM_DLL.pdb

@@ -54,3 +54,17 @@ C:\C#\BattleshipPart4\Battleship\obj\Debug\Battleship.csproj.GenerateResource.Ca
 C:\C#\BattleshipPart4\Battleship\obj\Debug\Battleship.exe
 C:\C#\BattleshipPart4\Battleship\obj\Debug\Battleship.pdb
 C:\C#\BattleshipPart4\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+C:\FQuartCSharp\BattleshipPart4\Battleship\bin\Debug\Battleship.exe.config
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship.exe
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship.pdb
+C:\FQuartCSharp\BattleshipPart4\Battleship\bin\Debug\Battleship.exe
+C:\FQuartCSharp\BattleshipPart4\Battleship\bin\Debug\Battleship.pdb
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship.csprojResolveAssemblyReference.cache
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\MainWindow.g.cs
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\App.g.cs
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship_MarkupCompile.cache
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship_MarkupCompile.lref
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\MainWindow.baml
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship.g.resources
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\FQuartCSharp\BattleshipPart4\Battleship\obj\Debug\Battleship.csproj.GenerateResource.Cache

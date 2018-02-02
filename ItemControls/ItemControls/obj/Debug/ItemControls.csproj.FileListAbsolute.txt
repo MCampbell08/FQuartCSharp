@@ -12,3 +12,6 @@ C:\C#\ItemControls\ItemControls\obj\Debug\ItemControls.Properties.Resources.reso
 C:\C#\ItemControls\ItemControls\obj\Debug\ItemControls.csproj.GenerateResource.Cache
 C:\C#\ItemControls\ItemControls\obj\Debug\ItemControls.exe
 C:\C#\ItemControls\ItemControls\obj\Debug\ItemControls.pdb
+C:\FQuartCSharp\ItemControls\ItemControls\bin\Debug\ItemControls.exe.config
+C:\FQuartCSharp\ItemControls\ItemControls\obj\Debug\ItemControls.exe
+C:\FQuartCSharp\ItemControls\ItemControls\obj\Debug\ItemControls.pdb

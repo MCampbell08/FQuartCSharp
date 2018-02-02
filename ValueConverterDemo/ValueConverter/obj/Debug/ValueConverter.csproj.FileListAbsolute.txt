@@ -97,3 +97,6 @@ C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\App.baml
 C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.g.resources
 C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.Properties.Resources.resources
 C:\C#\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.csproj.GenerateResource.Cache
+C:\FQuartCSharp\ValueConverterDemo\ValueConverter\bin\Debug\ValueConverter.exe.config
+C:\FQuartCSharp\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.exe
+C:\FQuartCSharp\ValueConverterDemo\ValueConverter\obj\Debug\ValueConverter.pdb

@@ -4,3 +4,9 @@ C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\bin\Debug\Lab 
 C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 03 Piece Movement.csprojResolveAssemblyReference.cache
 C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 03 Piece Movement.exe
 C:\SU16Pro100\Pro100\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 03 Piece Movement.pdb
+C:\FQuartCSharp\Lab 03 Piece Movement\Lab 02 Chess Depiction\bin\Debug\Lab 03 Piece Movement.exe.config
+C:\FQuartCSharp\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 03 Piece Movement.exe
+C:\FQuartCSharp\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 03 Piece Movement.pdb
+C:\FQuartCSharp\Lab 03 Piece Movement\Lab 02 Chess Depiction\bin\Debug\Lab 03 Piece Movement.exe
+C:\FQuartCSharp\Lab 03 Piece Movement\Lab 02 Chess Depiction\bin\Debug\Lab 03 Piece Movement.pdb
+C:\FQuartCSharp\Lab 03 Piece Movement\Lab 02 Chess Depiction\obj\Debug\Lab 03 Piece Movement.csprojResolveAssemblyReference.cache

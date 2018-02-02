@@ -268,7 +268,7 @@ namespace Lab_02_Chess_Depiction.Depiction
                 color = "White";
                 move = String.Format("[{0,-7}]  {1} castles {2} side", line, color, CheckPiece(pieceType));
             }
-            if (!turn)
+            else 
             {
                 if (line == castling.Groups[1].Value)
                 {

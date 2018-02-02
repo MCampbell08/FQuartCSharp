@@ -14,3 +14,6 @@ C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.csproj.Gen
 C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.exe
 C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.pdb
 C:\C#\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.csprojResolveAssemblyReference.cache
+C:\FQuartCSharp\HueValueConverter\HueValueConverter\bin\Debug\HueValueConverter.exe.config
+C:\FQuartCSharp\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.exe
+C:\FQuartCSharp\HueValueConverter\HueValueConverter\obj\Debug\HueValueConverter.pdb
